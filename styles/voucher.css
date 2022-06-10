@@ -1,0 +1,13 @@
+#container{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+
+#nav{
+    display: flex;
+    justify-content: space-between;
+font-size: 30px;
+background-color: rgb(0, 255, 255);
+}
